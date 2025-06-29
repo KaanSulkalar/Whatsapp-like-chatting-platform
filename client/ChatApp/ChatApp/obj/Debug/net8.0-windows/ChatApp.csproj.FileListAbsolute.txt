@@ -1,0 +1,16 @@
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\bin\Debug\net8.0-windows\ChatApp.exe
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\bin\Debug\net8.0-windows\ChatApp.deps.json
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\bin\Debug\net8.0-windows\ChatApp.runtimeconfig.json
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\bin\Debug\net8.0-windows\ChatApp.dll
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\bin\Debug\net8.0-windows\ChatApp.pdb
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\obj\Debug\net8.0-windows\ChatApp.Form1.resources
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\obj\Debug\net8.0-windows\ChatApp.csproj.GenerateResource.cache
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\obj\Debug\net8.0-windows\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\obj\Debug\net8.0-windows\ChatApp.AssemblyInfoInputs.cache
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\obj\Debug\net8.0-windows\ChatApp.AssemblyInfo.cs
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\obj\Debug\net8.0-windows\ChatApp.csproj.CoreCompileInputs.cache
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\obj\Debug\net8.0-windows\ChatApp.dll
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\obj\Debug\net8.0-windows\refint\ChatApp.dll
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\obj\Debug\net8.0-windows\ChatApp.pdb
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\obj\Debug\net8.0-windows\ChatApp.genruntimeconfig.cache
+C:\My Files\Developer\Projects\WindowsFormApps-CSharp\ChatApp\ChatApp\obj\Debug\net8.0-windows\ref\ChatApp.dll
